@@ -4,12 +4,13 @@ This project analyzes crime data in Los Angeles from 2010 to 2019. The data is o
 ### Getting Started
 To get started, clone the repository to your local machine:
 
-git clone https://github.com/XunQAQ/LA_Crime.git
+``` git clone https://github.com/XunQAQ/LA_Crime.git ```
+
 The main script for this project is analysis.py, which performs the data analysis and generates visualizations of the data.
 
 To run the script, navigate to the src directory and run the following command:
 
-python analysis.py
+``` python analysis.py ```
 This will generate a set of visualizations in the plots directory, including bar charts, heatmaps, and scatter plots.
 
 ### Data Cleaning
